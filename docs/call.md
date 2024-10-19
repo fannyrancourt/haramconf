@@ -30,8 +30,8 @@ Il n'est pas requis de présenter des travaux originaux.
 |----|----|
 | 2 sept. 2024 | Ouverture de l'appel de proposition |
 | 6 oct. 2024 | Date limite pour soumettre le [formulaire d'intention](https://forms.gle/1XyeRdnct7dqG3ew7) |
-| 14 oct. 2024 | Date limite pour soumettre le [formulaire de présentation](https://forms.gle/EwDpq3ZPYaZpPcbc8) |
-| 20 oct. 2024 | Partage de la [programmation](prog.md) provisoire |
-| 24 oct. 2024 | Partage de la [programmation](prog.md) finale |
+| ~14~ 22 oct. 2024 | Date limite pour soumettre le [formulaire de présentation](https://forms.gle/EwDpq3ZPYaZpPcbc8) |
+| ~20~ 24 oct. 2024 | Partage de la [programmation](prog.md) provisoire |
+| ~24~ 25 oct. 2024 | Partage de la [programmation](prog.md) finale |
 | 26 oct. 2024 | Jour des présentations |
 
