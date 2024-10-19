@@ -6,6 +6,4 @@ Nous avons le plaisir d'annoncer la troisième Conférence Harambe (*HaramConf 2
 
 !!! bug "Nouvelle importante"
 
-    L'appel d'intention de présentation est maintenant ouvert:  &emsp; [Je veux présenter!](https://forms.gle/Eeu6KK6NZofxNsUY6){ .md-button }
-
-    Vous savez déjà ce que vous allez présenter? &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; [Soumettre votre présentation](https://forms.gle/PqHC2wewp26FeCgx7){ .md-button }
+    Soumettez votre présentation avant le **22 octobre**: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; [Soumettre votre présentation](https://forms.gle/PqHC2wewp26FeCgx7){ .md-button }
